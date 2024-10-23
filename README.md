@@ -1,11 +1,13 @@
-### ⚡ Hi there 👋  
+### Hi there 👋    
+
+### Web⚡
+  
+![Static Badge](https://img.shields.io/badge/Web-AwAFuns-brightgreen)
 
 
   
 
 <!--
-
-### Hi there 👋
 **GULU-H/GULU-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

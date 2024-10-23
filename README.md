@@ -3,6 +3,9 @@
   
 [![Static Badge](https://img.shields.io/badge/Web-AwAFuns-brightgreen)](https://awafuns.cn)
 
+![Static Badge](https://img.shields.io/badge/Web-AwAFuns-brightgreen?cacheSeconds=https%3A%2F%2Fawafuns.cn)
+
+
 
 
 

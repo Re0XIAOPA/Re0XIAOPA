@@ -1,6 +1,11 @@
+### Hi there 👋    
+
+I'm learning ... emm, I hope I can break through myself!
 
 ### Web⚡
-  
+
+[Tech Tool X] AND [BetterMC Server]       
+
 [![Static Badge](https://img.shields.io/badge/Web-AwAFuns-brightgreen)](https://awafuns.cn)  [![Static Badge](https://img.shields.io/badge/Web-TaveRnce-brightgreen)](https://tavernce.shop/)  
 
 

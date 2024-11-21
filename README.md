@@ -1,7 +1,3 @@
-### Hi there 👋    
-
-I'm learning ... emm, I hope I can break through myself!
-
 ### Website⚡
 
 [Tech Tool X-Documentation] AND [BetterMC Minecraft Server]  AND  [Tools website]
